@@ -96,8 +96,8 @@ function renderBoard() {
 
       cell.textContent = cellValue === 0 ? '' : cellValue;
 
-      cell.className =
-        cellValue === 0 ? 'field-cell' : `field-cell field-cell--${cellValue}`;
+      cell.className
+        = cellValue === 0 ? 'field-cell' : `field-cell field-cell--${cellValue}`;
     }
   }
 

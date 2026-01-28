@@ -16,7 +16,7 @@ The game features:
 
 ## Live Demo
 
-_To be added_
+https://artemyakhno.github.io/game_2048/
 
 
 ## Technology Stack
